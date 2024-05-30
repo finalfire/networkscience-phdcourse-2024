@@ -10,7 +10,7 @@ To carry out the report, first select the kind of study you prefer to follow. Th
 After deciding your preference, start asking yourself what you need to carry out the report. Common requirements are:
 
 * The problem I want to address (e.g., I want to tackle the influence maximization problem on hypernetworks) or the context I want to study (e.g., I want to analyze the centrality values of users in a social network);
-* A dataset to study or to carry out experiments on;
+* A dataset to study or to carry out experiments on (you can find some useful links on `slides/x-handle-graph-data.pdf`)
 * How do I implement my approach and what measures do I use? (e.g., I implement the code and conduct the analysis in Python; e.g., I decide to analyze properties such as the number of components, the number of interactions, concepts such as degree, density, etc.)
 
 **It is not necessary for the report to be a complete research paper!** Try to take inspiration from classical works on the matter. Suggested references are given at the end of this document.
