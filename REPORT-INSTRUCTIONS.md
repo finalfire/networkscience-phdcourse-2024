@@ -2,6 +2,8 @@
 
 The final project (hereafter, report) consists of a practical study of the models and concepts encountered during the course.
 
+**The final project can be carried out in team of 4 people maximum.**
+
 To carry out the report, first select the kind of study you prefer to follow. There are two possible categories:
 
 * Conduct an empirical analysis of a complex system by employing one of the discussed models;
